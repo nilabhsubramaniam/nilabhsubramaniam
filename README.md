@@ -1,6 +1,6 @@
 <img src="assets/nilabh.jpg" alt="Portrait of Nilabh" width="170" align="right">
 
-# Hi, I'm Nilabh
+# Hi, I'm Nilabh Subramaniam
 
 **Frontend-focused full-stack developer in Gurugram, India**
 
